@@ -1,0 +1,14 @@
+.home-container {
+  position: relative;
+  background: beige;
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding : 20px;
+
+  .todo-header {
+    display: flex;
+    gap : 10px
+   }
+}

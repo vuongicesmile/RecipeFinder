@@ -6,7 +6,7 @@ const Receipe = () => {
   const [ searchQuery, setSearchQuery] = useState('pizza');
 
   const getSearchResult = () => {
-    getReceipes(searchQuery);
+    //getReceipes(searchQuery);
   }
 
   return (
