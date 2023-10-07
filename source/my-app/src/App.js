@@ -7,7 +7,7 @@ import Receipe from './pages/Receipe';
 
 function App() {
   return (
-  
+
       <Router>
         <NavBar />
         <Routes>

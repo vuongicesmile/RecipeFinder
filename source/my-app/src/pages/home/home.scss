@@ -6,9 +6,16 @@
   background-repeat: no-repeat;
   background-size: cover;
   padding : 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 
   .todo-header {
     display: flex;
+    flex-direction: column;
     gap : 10px
    }
+}
+.ui .input {
+ width: 100%;
 }
